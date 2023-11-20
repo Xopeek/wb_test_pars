@@ -1,0 +1,2 @@
+class WildberriesAPIError(Exception):
+    pass
